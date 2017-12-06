@@ -1,0 +1,6 @@
+{
+	{
+     "cmd": ["/usr/bin/node", "$file"],
+     "selector": "source.js"
+  }
+}
